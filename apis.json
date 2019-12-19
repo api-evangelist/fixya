@@ -1,0 +1,66 @@
+{
+    "name": "FixYa",
+    "description": "Product troubleshooting support, DIY advice, and help from experts & local pros. Ask questions and get answers to fix, repair, and service any product.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1059-fixya.jpg",
+    "tags": [
+        "answers",
+        "api not found",
+        "forums",
+        "have api",
+        "marketplaces",
+        "plugins",
+        "questions",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fixya\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FixYa",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1059-fixya.jpg",
+            "humanURL": "http:\/\/www.fixya.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fixya-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.fixya.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.fixya.com\/index.php\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fixya"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fixya"
+        },
+        {
+            "type": "Email",
+            "url": "support@fixya.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/fixya"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fixya.com\/"
+        }
+    ]
+}
